@@ -20,3 +20,5 @@ for dive in dives:
     aim -= amt
 
 print(x_pos * depth)
+
+dives_file.close()

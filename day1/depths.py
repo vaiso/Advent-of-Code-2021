@@ -21,3 +21,5 @@ for i in range(1, len(depths)):
     increases += 1
 
 print(increases)
+
+depths_file.close()
